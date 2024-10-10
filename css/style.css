@@ -731,10 +731,13 @@ a:focus {
 }
 
 .info_section {
-  padding: 75px 0;
+   padding: 75px 0;
   background-color: #0a0f43;
   text-align: center;
   color: #fff;
+  max-width: 100%;
+  margin: 0px;
+  border-radius: 0px;
 }
 
 .info_section h4 {
